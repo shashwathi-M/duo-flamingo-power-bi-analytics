@@ -111,3 +111,5 @@ Therefore, the project focuses on subscription revenue, retention, churn, billin
 **Project:** DuoFlamingo Power BI Analytics Platform  
 **Domain:** SaaS & Digital Subscription Business Analytics  
 **Primary Tool:** Microsoft Power BI
+
+© 2026 DuoFlamingo Analytics Platform. Project developed for educational and internship purposes. All rights reserved.
